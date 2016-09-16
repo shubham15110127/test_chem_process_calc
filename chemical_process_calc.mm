@@ -181,7 +181,7 @@
 <node TEXT="Introduction to energy balance" ID="ID_909253388" CREATED="1464279577365" MODIFIED="1464280205377" NUMBERED="true">
 <node TEXT="Forms of energy" ID="ID_684107809" CREATED="1464280261551" MODIFIED="1464281107369" NUMBERED="true">
 <node TEXT="Kinetic energy" ID="ID_1765689219" CREATED="1474021607706" MODIFIED="1474021620413"/>
-<node TEXT="Potential energy" ID="ID_25580509" CREATED="1474021621054" MODIFIED="1474021634449"/>
+<node TEXT="Potential energy: It is measure of energy posed by a body when it is at some height above the ground leval and it is the macroscopic property of the energy." ID="ID_25580509" CREATED="1474021621054" MODIFIED="1474032338795"/>
 <node TEXT="Internal energy" ID="ID_1659918451" CREATED="1474021634746" MODIFIED="1474021733276"/>
 </node>
 <node TEXT="Work and heat" ID="ID_405243603" CREATED="1464281108116" MODIFIED="1464281119556" NUMBERED="true">
